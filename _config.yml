@@ -1,17 +1,5 @@
 layout_spectrum: 0.6042553
 name: mennä
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   brandStrength: 0.4276596
   saturation: 0.4
@@ -24,3 +12,15 @@ color:
   lightness: 0.7957447
   rhythmicContrast: 0.4553191
 typography_spectrum: 0.5404255
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
