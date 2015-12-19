@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Our perceptions in life
-datePublished: '2015-12-19T22:09:22.869Z'
-dateModified: '2015-12-19T22:08:58.820Z'
+description: Our perspectives of life
+datePublished: '2015-12-19T22:23:34.944Z'
+dateModified: '2015-12-19T22:23:12.319Z'
 title: 'Benchmark & Bias'
 author: []
 authors: []
@@ -22,7 +22,10 @@ url: benchmark-and-bias/index.html
 _type: Blurb
 
 ---
-Benchmarks & Bias 
-
-Our first encounters and repeated encounters with the same "thing" sets the tone for our personal preferences and what we perceive the "thing" to be. 
-Hence our biases towards the familiar, even it is not authentic.
+null
+null
+null
+null
+null
+null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4e22a3d-73da-40c3-9adb-a541aa474e9d.jpg)
